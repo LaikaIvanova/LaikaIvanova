@@ -1,10 +1,7 @@
-<div align="center" style="display: flex; justify-content: center; flex-wrap: nowrap;">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=LaikaIvanova&theme=dark&hide_border=false" 
-       style="width:50%; margin: 0; padding: 0;" 
-       alt="Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaikaIvanova&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" 
-       style="width:50%; margin: 0; padding: 0;" 
-       alt="Top Languages"/>
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=LaikaIvanova&theme=dark&hide_border=false" style="display: block; margin: auto; width:100%;" alt="Streak Stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaikaIvanova&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="display: block; margin: auto; width:100%;" alt="Top Languages"/>
 </div>
 
 ###
