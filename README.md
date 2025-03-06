@@ -1,7 +1,5 @@
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=LaikaIvanova&theme=dark&hide_border=false" style="display: block; margin: auto; width:100%;" alt="Streak Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaikaIvanova&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="display: block; margin: auto; width:100%;" alt="Top Languages"/>
 </div>
 
 ###
