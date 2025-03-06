@@ -1,0 +1,10 @@
+﻿git ls-files | xargs -n 1 git blame --line-porcelain | grep "^author " | sed 's/author //' | sort | uniq -c | sort -nr
+
+//Edit last message in source control graph
+git commit --amend
+
+//Revert last message in source control graph (if accidentally saved)
+git reset --hard HEAD~1
+
+//Save reverted commits
+git push --force
