@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=LaikaIvanova&theme=dark&hide_border=false" style="display: block; margin: auto; width:100%; height: 50" alt="Streak Stats"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=LaikaIvanova&theme=dark&hide_border=false" style="display: block; margin: auto; width:100%; alt="Streak Stats"/>
 </div>
 
 ###
