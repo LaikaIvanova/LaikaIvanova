@@ -2,7 +2,6 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=LaikaIvanova&theme=dark&hide_border=false" style="display: block; margin: auto; width:100%; alt="Streak Stats"/>
 </div>
 
-###
 <div align="center">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
