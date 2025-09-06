@@ -12,5 +12,5 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaikaIvanova&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" style="display: block; margin: auto; width:100%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaikaIvanova&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" alt="Most Used Languages" style="display: block; margin: auto; width:100%;"/>
 </div>
