@@ -11,6 +11,7 @@
   <img src="Data/Papyrus.svg" alt="Papyrus" height="28"/>
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="Data/Delphi.svg" alt="Delphi" height="28"/>
 </div>
 
 <div align="center">
